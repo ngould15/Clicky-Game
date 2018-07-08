@@ -3,15 +3,15 @@
     min-height: 280px;
     text-align: center;
     vertical-align: center;
-    font-size: 30px;
-    color: #2A77AE;
+    color: blue;
     margin-bottom: 15px;
+    background-image: url("../images/gaming-pattern.png");
   }
   
   
   .titlebox h1 {
     margin-top: 100px;
-    font-size: 30px;
+    font-size: 45px;
   }
   
   .titlebox p {
