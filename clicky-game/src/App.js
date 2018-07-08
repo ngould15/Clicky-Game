@@ -9,7 +9,7 @@ import Navbar from './components/Navbar'
 class App extends Component {
   // Setting this.state.friends to the friends json array
   state = {
-    message: "Click on friend to begin!",
+    message: "Click on any image to begin!",
     topScore: 0,
     curScore: 0,
     friends: friends,
