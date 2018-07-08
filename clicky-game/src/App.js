@@ -28,7 +28,7 @@ shuffleArray = array => {
 
 
 selectFriends = character => {
-  const findFriends = this.state.unselectedFriends.find(item => item.character === character);
+//   const findFriends = this.state.unselectedFriends.find(item => item.character === character);
   console.log(character)
     if(character.clicked === false){
         character.clicked = true;
